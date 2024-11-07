@@ -1,16 +1,16 @@
-## Hi there 👋
+Hello, I'm a Developer in Training 👨‍💻
+🚀 About Me
 
-<!--
-**MatheusCoelhoGit/MatheusCoelhoGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate and driven developer currently learning HTML, CSS, and JavaScript. My goal is to master these technologies and continuously apply what I’ve learned to real-world projects. I believe in the power of logical thinking and problem-solving, and I aim to refine these skills through challenges and collaboration.
+💡 What I’m Learning
 
-Here are some ideas to get you started:
+    Web Development: Focused on front-end technologies (HTML, CSS, JavaScript) to create intuitive and interactive user experiences.
+    Problem-Solving: Practicing algorithms and data structures to enhance my problem-solving skills on platforms like LeetCode.
+    Industry Best Practices: Analyzing code from major open-source projects to learn from the best and apply high-quality coding standards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 Current Projects
+
+I’m currently working on several personal projects to apply my skills in practical scenarios. These projects focus on user interaction, logic building, and improving my front-end development expertise.
+📬 Get in Touch
+
+    Email: tuelhodev@gmail.com
