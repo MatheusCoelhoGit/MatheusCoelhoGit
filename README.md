@@ -1,16 +1,25 @@
-
-# Hello, I'm a Developer in Training 👨‍💻
+## 👋 Hello, I'm a Full Stack Developer in Training
 
 ### 🚀 About Me
-I’m a passionate and driven developer currently learning **HTML**, **CSS**, and **JavaScript**. My goal is to master these technologies and continuously apply what I’ve learned to real-world projects. I believe in the power of logical thinking and problem-solving, and I aim to refine these skills through challenges and collaboration.
 
-### 💡 What I’m Learning
-- **Web Development**: Focused on front-end technologies (HTML, CSS, JavaScript) to create intuitive and interactive user experiences.
-- **Problem-Solving**: Practicing algorithms and data structures to enhance my problem-solving skills on platforms like **LeetCode**.
-- **Industry Best Practices**: Analyzing code from major open-source projects to learn from the best and apply high-quality coding standards.
+I'm a passionate and focused junior developer on the path to becoming a proficient Full Stack Developer. Currently, I'm deepening my knowledge in **Java with Spring Boot**, **React**, **PostgreSQL**, and modern development practices such as **automated testing**, **continuous integration**, and **containerization with Docker**.
+I'm driven by curiosity, problem-solving, and the satisfaction of turning ideas into real solutions.
+
+### 💡 What I'm Learning
+
+* **Back-end Development:** Building robust RESTful APIs with **Java + Spring Boot**, applying clean code principles and **JPA/Hibernate** for data persistence.
+* **Front-end Development:** Creating dynamic interfaces using **React**, focusing on usability and reusable components.
+* **DevOps & Best Practices:** Using **Git**, **Docker**, and **CI/CD** pipelines, and applying **automated testing** with **JUnit** and **Mockito** to ensure software quality.
+* **Cloud Foundations:** Exploring **AWS services** to build scalable and efficient applications.
+* **Industry Standards:** Analyzing code from open-source and enterprise projects to write clean, readable, and maintainable code.
 
 ### 🔨 Current Projects
-I’m currently working on several personal projects to apply my skills in practical scenarios. These projects focus on user interaction, logic building, and improving my front-end development expertise.
+
+I'm currently developing personal projects where I apply the full stack, with a focus on:
+
+* Implementing authentication and authorization in web applications
+* Integrating React front-end with Spring Boot back-end
+* Deploying applications using **Docker** and **CI/CD pipelines**
 
 ### 📬 Get in Touch
 - **Email**: [tuelhodev@gmail.com](mailto:tuelhodev@gmail.com)
